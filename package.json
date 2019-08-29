@@ -1,7 +1,7 @@
 {
   "name": "@pake/node-printer",
   "description": "Node.js printer bindings",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "homepage": "http://github.com/ekoeryanto/node-printer",
   "author": {
     "name": "Ion Lupascu",
@@ -33,7 +33,7 @@
     "module_name": "node_printer",
     "module_path": "./lib/",
     "host": "https://github.com/ekoeryanto/node-printer/releases/download/",
-    "remote_path": "{version}"
+    "remote_path": "v{version}"
   },
   "licenses": [
     {
